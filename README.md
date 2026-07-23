@@ -4,7 +4,8 @@
 
 簡介：
 拿 WZ403809264 寫好的引擎再以現代 AI 輔助作大幅改進，還在改進中，更新好，這 log 會寫明改進了什麼能力。 
-源代碼：
+
+源代碼：https://github.com/WZ403809264/AnimalcraftAI
 
 ## Update Log（更新日志）
 
