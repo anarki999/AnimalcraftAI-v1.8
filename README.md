@@ -2,7 +2,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/6532225/18883792/44b26bbe-8517-11e6-8f14-896c01d77724.png)
 
-简介：
+**简介：**
 拿了 WZ403809264 写好的斗兽棋引擎再以现代 AI 辅助作大幅改进。看看 AI 的强大！
 
 源代碼：https://github.com/WZ403809264/AnimalcraftAI
